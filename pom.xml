@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>AmazonLink</finalName>
+    <finalName>KeshavRegForm</finalName>
   </build>
 </project>
