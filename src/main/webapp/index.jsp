@@ -12,14 +12,14 @@
 <!-- <h1>KESHAV Devops "Register Form"</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
-			<!--	<tr>
+				<tr>
 					<td>First Name</td>
 					<td><input type="text" name="first_name" /></td>
 				</tr>
 				<tr>
 					<td>Last Name</td>
 					<td><input type="text" name="last_name" /></td>
-				</tr> -->
+				</tr>
 				<tr>
 					<td>UserName</td>
 					<td><input type="text" name="username" /></td>
