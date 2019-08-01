@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>KeshavRegForm</finalName>
+    <finalName>SubhashRegForm</finalName>
   </build>
 </project>
