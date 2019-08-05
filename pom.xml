@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>TopGun</finalName>
+    <finalName>Adidas</finalName>
   </build>
 </project>
