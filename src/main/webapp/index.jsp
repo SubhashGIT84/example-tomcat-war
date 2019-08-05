@@ -38,9 +38,9 @@
 				</tr></table>
 			<input type="submit" value="Submit" /></form> -->
 
-<!-- <a href="https://shop.adidas.co.in/">here</a> -->
+<a href="https://shop.adidas.co.in/">here</a>
 
-	<img src="TopGunNew.jpg" alt="TopGun">
+<!-- <img src="TopGunNew.jpg" alt="TopGun"> -->
 	
 </body>
 </html>
