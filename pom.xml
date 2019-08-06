@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Adidas</finalName>
+    <finalName>${Server1}</finalName>
   </build>
 </project>
